@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github! My name is Bingle and I am an aspiring Software Engineer. 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithbingle&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithbingle)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithbingle&show_icons=true&theme=tokyonight)
 
