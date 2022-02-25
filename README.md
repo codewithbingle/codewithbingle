@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithbingle&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithbingle&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&border=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithbingle&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&border=)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithbingle&show_icons=true&theme=tokyonight)
 
