@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github! My name is Bingle and I am an aspiring Software Engineer. 
+### Hi there 👋 Welcome to my Github! My name is Bingle and I am a Software Engineer. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithbingle&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&border=)](https://git.io/streak-stats)
 
